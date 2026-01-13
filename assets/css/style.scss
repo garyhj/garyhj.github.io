@@ -2,3 +2,24 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+.hero {
+  display: block;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
+.icon {
+  width: 64px;
+  height: 64px;
+  display: block;
+  margin: 0.5rem 0 0.75rem;
+}
+
+.main-content .btn {
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
