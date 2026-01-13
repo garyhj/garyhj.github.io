@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-<img class="hero" src="{{ '/assets/images/hero.svg' | relative_url }}" alt="业余无线电 / 摩旅 / NAS / 旅行" />
-
 # 你好，我是 Gary
 
 这里是我的个人主页与兴趣记录站点：业余无线电、摩旅、NAS（家庭存储/家庭服务器）、旅行。
